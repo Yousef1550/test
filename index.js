@@ -1,4 +1,5 @@
 console.log('log1');
 
 
-console.log('الحج الشعبان السيكسي');
+console.log('الحج الشعبان ');
+
